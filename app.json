@@ -12,7 +12,7 @@
     "hot",
     "reload"
   ],
-  "website": "https://github.com/alexkuz/flask-react-boilerplate",
+  "website": "https://github.com/amussey/flask-react-boilerplate",
   "logo": "http://i.imgur.com/ydf7myp.png",
   "addons": ["heroku-postgresql:hobby-dev"],
   "env": {
